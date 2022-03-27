@@ -5,5 +5,8 @@
 **Module:** Programming CMPU1025: 2020-21  
 **Examiner Score:** 99%
 
+**Description:** Text based PIN management system with the ability change PIN.
+
+
 
 
