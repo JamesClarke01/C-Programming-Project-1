@@ -7,7 +7,7 @@
 
 **Description:** Text based PIN management system with the ability change PIN.  
 **Skills learned/used:**
-1. Programming in C
+1. C Programming Basics
 2. Maintaining a clean and maintainable code structure
 3. Handling errors in user input 
 
