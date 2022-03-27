@@ -20,7 +20,7 @@
 ---
 ![Screenshot 4](https://github.com/JamesClarke01/C-Programming-Project-1/blob/master/Screenshots/4.PNG?raw=true)
 ---
-![Screenshot 4](https://github.com/JamesClarke01/C-Programming-Project-1/blob/master/Screenshots/5.png?raw=true)
+![Screenshot 5](https://github.com/JamesClarke01/C-Programming-Project-1/blob/master/Screenshots/5.png?raw=true)
 
 
 
